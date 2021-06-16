@@ -19,14 +19,14 @@ This Repository contains programs of D Flipflop, Buffer GATE, AND Gate, OR Gate 
     For example, run this command inside your terminal:
 
     ```bash
-    git clone git@github.com:<your-github-username>/Star-Troopers.git
+    git clone git@github.com:<your-github-username>/Computer_Organization.git
     ```
 
     **Replace \<your-github-username\>!**
 3. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream git@github.com:<your-github-username>/Star-Troopers.git
+    git remote add upstream git@github.com:<your-github-username>/Computer_Organization.git
     git pull upstream master
     ```
 6. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
